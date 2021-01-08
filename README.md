@@ -1,3 +1,35 @@
+## Getting Started
+
+### Dependencies 
+
+* JSON Server
+* GitHub
+
+### Wireframe
+
+[Wireframe](https://miro.com/app/board/o9J_kmESfd0=/)
+
+### Executing program
+
+* How to run the program
+    * open terminal
+    * cd into API directory
+    * run 
+    ```
+    json-server -p 8088 -w database.json
+    ```
+    * serve the project
+
+## Authors
+
+* Rick Blake
+* Joe Overton
+* Hanako Hashiguchi
+
+## Acknowledgments
+
+Thank you to Colin Arel for being with us in the beginning and our constant inspirational speaker when he could pop by. And also for the brilliant team name "Lonely Trolls" and the picture he found to accompany it.
+
 # flagons-lonely-trolls
 
 The purpose of this app is to create a game app that heavily relies on components as well as working in a focused team.
@@ -45,36 +77,3 @@ The rules of the game were fairly simple, yet allowed for some subtlety.
 1. If a Fairy distracts a Goblin enough so that a thrown ball lands anywhere in the playing area _(on the table or in a flagon)_ without any defensive truncheon swings, the Fairies receive 1 point.
 1. There are three rounds so that each team can play each role.
 1. At the end of round three, whichever team has the most points earns the honor of drinking the contents of the six flagons.
-
-
-## Getting Started
-
-### Dependencies 
-
-* JSON Server
-* GitHub
-
-### Wireframe
-
-[Wireframe](https://miro.com/app/board/o9J_kmESfd0=/)
-
-### Executing program
-
-* How to run the program
-    * open terminal
-    * cd into API directory
-    * run 
-    ```
-    json-server -p 8088 -w database.json
-    ```
-    * serve the project
-
-## Authors
-
-* Rick Blake
-* Joe Overton
-* Hanako Hashiguchi
-
-## Acknowledgments
-
-Thank you to Colin Arel for being with us in the beginning and our constant inspirational speaker when he could pop by. And also for the brilliant team name "Lonely Trolls" and the picture he found to accompany it.
